@@ -13,6 +13,7 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 ### 项目说明 ###
 * 全自定义版本
 * 支持多账号、随机时间调用、api随机抽取排序、副应用模式等
+* 继承sr版，默认9，13，16点开始随机调用（周六日不运行）
 
 ### 特别说明/Thanks ###
 * 原教程博主-黑幕（酷安id-Paran）：https://blog.432100.xyz/index.php/archives/50/
